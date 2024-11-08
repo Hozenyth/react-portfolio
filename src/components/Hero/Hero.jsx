@@ -7,10 +7,11 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Olá, sou Hozenyth </h1>
+        <h1 className={styles.title}>Sobre a Minha Jornada</h1>
         <p className={styles.description}>
-        Sou desenvolvedora full-stack com 3 anos de experiência em C#/.NET e conhecimentos
-        em React e Flutterflow.<br></br>
+        Olá, sou <strong className={styles.name}>Hozenyth Andrade</strong>, desenvolvedora fullstack com 3 anos de experiência em C# e .NET,
+        além de conhecimentos em React e FlutterFlow. Com paixão por criar soluções eficientes e inovadoras, 
+        estou sempre em busca de novos desafios. <br></br>
         Entre em contato se quiser saber mais!
         </p>
         <a href="mailto:hozenyth.andrade@gmail.com" className={styles.contactBtn}>

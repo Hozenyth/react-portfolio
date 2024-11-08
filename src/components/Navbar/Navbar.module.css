@@ -33,9 +33,20 @@
 }
 
 .menuItems a {
-  font-size: 25px;
+  font-size: 20px;
   color: var(--color-text);
   text-decoration: none;
+}
+
+.freelanceItem {
+  border: 2px solid #ded0e7; /* Define a cor e a espessura da borda */
+  background-color: #071e4e;
+  border-radius: 12px; 
+  padding: 0 15px 0 15px;
+}
+
+.freelanceItem a:hover {
+  color: #01011d;
 }
 
 @media screen and (max-width: 830px) {
@@ -79,4 +90,10 @@
     display: flex;
     z-index: 1;
   }
+
+}
+
+.menuItems a:hover {
+  color:  #4a90c9;
+ 
 }
