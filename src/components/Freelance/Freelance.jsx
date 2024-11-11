@@ -31,7 +31,7 @@ export const Freelance = () => {
               <h3 className={styles.destac} >Integração de API e Backend </h3>
               <p>
               Se você precisa de uma aplicação robusta e conectada, eu ofereço serviços de integração e desenvolvimento de APIs REST,
-              microsserviços e bancos de dados com SQL Server e Firebase, para garantir um backend eficiente e escalável que suporte sua solução de ponta a ponta.
+              microsserviços e bancos de dados com SQL Server, para garantir um backend eficiente e escalável que suporte sua solução de ponta a ponta.
               </p>
             </div>
           </li>
