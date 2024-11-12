@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Aplicativo de finanças",
+    "imageSrc": "projects/gastax.png",
+    "description": "Projeto financeiro de controle de gastos",
+    "skills": ["Flutterflow", "Supabase"],
+    "demo": "https://gastax-app.flutterflow.app/homePage",
+    "source": "https://github.com/Hozenyth/FinanceApp"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Gestor Eleitoral",
+    "imageSrc": "projects/gestorEleitoral.png",
+    "description": "Aplicativo de gestão de campanhas eleitorais",
+    "skills": ["Flutterflow", "Supabase"],
+    "demo": "https://gestoreleitoral.com.br/",
+    "source": "https://app.gestoreleitoral.com.br/"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Gestão Escolar",
+    "imageSrc": "projects/School.png",
+    "description": "API REST para um sistema de gestão escolar",
+    "skills": ["C#/.NET", "SQL", "Entity", "CQRS"],
+    "demo": "",
+    "source": "https://github.com/Hozenyth/SchoolManagement.API"
   }
 ]
