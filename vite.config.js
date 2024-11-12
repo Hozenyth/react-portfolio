@@ -10,4 +10,7 @@ export default defineConfig({
     },
   },
   base: "/react-portfolio",
+  build: {
+    outDir: 'dist', 
+  },
 });
