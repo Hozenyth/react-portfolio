@@ -38,6 +38,14 @@
   gap: 25px;
 }
 
+.link a:hover{
+  color: blueviolet;
+}
+
+.contatoDestaque{
+  color:blueviolet;
+}
+
 .link a {
   color: var(--color-text);
   text-decoration: none;
