@@ -1,1 +1,15 @@
-{"orgId":"team_h3nqFtRnQQlsAq0Cagm2CLA1","projectId":"prj_Y7bkPUAeRrHnY7xqMC3SeH6dk3mR"}
+{
+    "builds": [
+      {
+        "src": "src/index.html",
+        "use": "@vercel/static"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "/index.html"
+      }
+    ]
+  }
+  
