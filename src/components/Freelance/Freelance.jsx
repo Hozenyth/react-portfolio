@@ -5,7 +5,7 @@ import { getImageUrl } from "../../utils";
 
 export const Freelance = () => {
   return (
-    <section className={styles.container} id="about">
+    <section className={styles.container} id="freelance">
       <h2 className={styles.title}>Serviços Freelance</h2><br></br>
       <p className={styles.subtitle}>Transformo ideias em realidade por meio de soluções digitais personalizadas. Saiba mais:</p>
       <div className={styles.content}>

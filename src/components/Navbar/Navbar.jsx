@@ -47,12 +47,12 @@ export const Navbar = () => {
             <a href="#experience">Experiência</a>
           </li>
           <li>
-            <a href="projects">Projetos</a>
+            <a href="#projects">Projetos</a>
           </li>
           <li>
             <a href="#contact">Contato</a>
           </li>
-          <li className={styles.freelanceItem}>
+          <li>
             <a href="#freelance">Serviços Freelance</a>
           </li>
         </ul>

@@ -20,7 +20,7 @@
     "imageSrc": "projects/School.png",
     "description": "API REST para um sistema de gestão escolar",
     "skills": ["C#/.NET", "SQL", "Entity", "CQRS"],
-    "demo": "",
+    "demo": "https://github.com/Hozenyth/SchoolManagement.API",
     "source": "https://github.com/Hozenyth/SchoolManagement.API"
   }
 ]
