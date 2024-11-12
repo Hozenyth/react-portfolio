@@ -10,7 +10,7 @@ import { BrowserRouter } from 'react-router-dom';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/react-portfolio">
     <div className={styles.App}>
       <Navbar />
       <Hero />
