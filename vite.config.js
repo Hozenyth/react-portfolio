@@ -9,7 +9,7 @@ export default defineConfig({
       localsConvention: "camelCase",
     },
   },
-  base: "/react-portfolio",
+  base: "./",
   build: {
     outDir: 'dist', 
   },
