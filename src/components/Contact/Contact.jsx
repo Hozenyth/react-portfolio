@@ -25,8 +25,8 @@ export const Contact = () => {
           <a href="https://www.linkedin.com/in/hozenyth/" target="_blank"  rel="noopener noreferrer">linkedin.com/Hozenyth</a>
         </li>
         <li className={styles.link}>
-          <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
-          <a href="https://www.github.com/Hozenyth" target="_blank"  rel="noopener noreferrer">github.com/Hozenyth</a>
+          <img className={styles.linkpading} src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
+          <a className={styles.descpading} href="https://www.github.com/Hozenyth" target="_blank"  rel="noopener noreferrer">github.com/Hozenyth</a>
         </li>
       </ul>
     </footer>
