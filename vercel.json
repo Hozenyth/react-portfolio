@@ -1,8 +1,20 @@
 {
     "rewrites": [
       {
-        "source": "/(.*)",
-        "destination": "/index.html"
+        "source": "/react-portfolio/(.*)",
+        "destination": "/react-portfolio/index.html"
+      }
+    ],
+    "headers": [
+      {
+        "source": "/react-portfolio/(.*)",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "no-cache"
+          }
+        ]
       }
     ]
   }
+  
