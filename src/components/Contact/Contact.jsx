@@ -26,7 +26,7 @@ export const Contact = () => {
         </li>
         <li className={styles.link}>
           <img className={styles.linkpading} src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
-          <a className={styles.descpading} href="https://www.github.com/Hozenyth" target="_blank"  rel="noopener noreferrer">github.com/Hozenyth</a>
+          <a href="https://www.github.com/Hozenyth" target="_blank"  rel="noopener noreferrer">github.com/Hozenyth</a>
         </li>
       </ul>
     </footer>
