@@ -6,11 +6,10 @@ import { Hero } from "./components/Hero/Hero";
 import { Navbar } from "./components/Navbar/Navbar";
 import { Projects } from "./components/Projects/Projects";
 import { Freelance } from "./components/Freelance/Freelance";
-import { BrowserRouter } from 'react-router-dom';
 
 function App() {
   return (
-    <BrowserRouter basename="/react-portfolio">
+    
     <div className={styles.App}>
       <Navbar />
       <Hero />
@@ -20,7 +19,6 @@ function App() {
       <Freelance/>
       <Contact /> 
     </div> 
-    </BrowserRouter>
   );
 }
 
