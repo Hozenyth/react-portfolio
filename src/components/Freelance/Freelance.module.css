@@ -21,13 +21,13 @@
 
 .subtitle{
     color: #FFFFFF;
-    font-size: 16px;
+    font-size: 20px;
     letter-spacing: 1.75px;
 }
 
 .destac{
     color: #589cdb;
-    font-size: 16px;
+    font-size: 20px;
     letter-spacing: 1.75px;
 }
 
@@ -70,7 +70,7 @@
 }
 
 .aboutItem h3 {
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 600;
 }
 
