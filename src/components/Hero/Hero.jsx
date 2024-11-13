@@ -18,6 +18,7 @@ export const Hero = () => {
           Fale comigo
         </a>
       </div>
+      <br></br>
       <img
         src={getImageUrl("hero/heroImage.png")}
         alt="Hero image of me"
