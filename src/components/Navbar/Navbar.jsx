@@ -52,7 +52,7 @@ export const Navbar = () => {
           <li>
             <a href="#contact">Contato</a>
           </li>
-          <li>
+          <li className={styles.freelanceItem} >
             <a href="#freelance">Serviços Freelance</a>
           </li>
         </ul>

@@ -3,7 +3,7 @@
     "title": "Aplicativo de finanças",
     "imageSrc": "projects/gastax.png",
     "description": "Projeto financeiro de controle de gastos",
-    "skills": ["Flutterflow", "Supabase"],
+    "skills": ["Flutterflow", "Supabase", "Metodologia Agil"],
     "demo": "https://gastax-app.flutterflow.app/homePage",
     "source": "https://github.com/Hozenyth/FinanceApp"
   },
@@ -11,7 +11,7 @@
     "title": "Gestor Eleitoral",
     "imageSrc": "projects/gestorEleitoral.png",
     "description": "Aplicativo de gestão de campanhas eleitorais",
-    "skills": ["Flutterflow", "Supabase"],
+    "skills": ["Flutterflow", "Supabase", "Metodologia Agil"],
     "demo": "https://gestoreleitoral.com.br/",
     "source": "https://app.gestoreleitoral.com.br/"
   },

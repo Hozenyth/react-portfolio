@@ -1,15 +1,1 @@
-{
-    "builds": [
-      {
-        "src": "src/index.html",
-        "use": "@vercel/static"
-      }
-    ],
-    "routes": [
-      {
-        "src": "/(.*)",
-        "dest": "/index.html"
-      }
-    ]
-  }
-  
+{"orgId":"team_h3nqFtRnQQlsAq0Cagm2CLA1","projectId":"prj_f6hqtgxjrXqm6syFlzVAacTxzKVx"}
