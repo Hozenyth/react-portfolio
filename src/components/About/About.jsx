@@ -19,7 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-              Desenvolvedora frontend com experiência em criar sites responsivos e otimizados.
+              Experiência em criar sites e aplicativos responsivos, com foco em otimização e desempenho.
               </p>
             </div>
           </li>
@@ -28,7 +28,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-              Experiência no desenvolvimento de sistemas backend rápidos e otimizados, além de APIs.
+              Experiência na criação de sistemas backend rápidos e otimizados, além de APIs.
               </p>
             </div>
           </li>
